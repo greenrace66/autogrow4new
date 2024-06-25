@@ -24,26 +24,8 @@
 Reading input ... done.
 Setting up the scoring function ... done.
 Analyzing the binding site ... done.
-Using random seed: -2054015780
+Using random seed: 1075943250
 Performing search ... 
 0%   10   20   30   40   50   60   70   80   90   100%
 |----|----|----|----|----|----|----|----|----|----|
-***************************************************
-done.
-Refining results ... 
-searching finished in 83.518 seconds
-done.
-
-mode |   affinity | dist from best mode
-     | (kcal/mol) | rmsd l.b.| rmsd u.b.
------+------------+----------+----------
-   1         -8.7      0.000      0.000
-   2         -8.6      2.224      3.670
-   3         -8.6      2.498      7.990
-   4         -8.6      2.109      7.623
-   5         -8.3      1.863      3.237
-   6         -8.3      2.367      7.676
-   7         -7.7      2.396      8.179
-   8         -7.5      1.128      2.031
-   9         -7.5      2.441      7.903
-Writing output ... done.
+**************************
