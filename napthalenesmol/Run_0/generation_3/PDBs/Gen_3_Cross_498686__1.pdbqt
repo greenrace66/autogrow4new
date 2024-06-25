@@ -1,0 +1,36 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: N3_3  and  C1_4 
+REMARK    1  A    between atoms: C1_4  and  C2_6 
+REMARK    2  A    between atoms: C6_10  and  N4_11 
+REMARK    3  A    between atoms: C11_18  and  N7_19 
+ROOT
+HETATM    1  N1  LIG X 999      -3.598  -2.893   0.713  1.00  0.00     0.068 N 
+HETATM    2  N2  LIG X 999      -2.632  -3.434   1.250  1.00  0.00    -0.159 NA
+HETATM    3  N3  LIG X 999      -1.666  -3.977   1.787  1.00  0.00    -0.028 NA
+HETATM    4  C1  LIG X 999      -0.345  -3.424   1.719  1.00  0.00     0.311 C 
+HETATM    5  O1  LIG X 999       0.623  -4.125   2.116  1.00  0.00    -0.263 OA
+ENDROOT
+BRANCH   4   6
+HETATM    6  C2  LIG X 999      -0.089  -2.056   1.202  1.00  0.00     0.066 A 
+HETATM    7  C3  LIG X 999      -0.890  -0.997   1.640  1.00  0.00     0.020 A 
+HETATM    8  C4  LIG X 999      -0.684   0.297   1.171  1.00  0.00     0.016 A 
+HETATM    9  C5  LIG X 999       0.350   0.579   0.261  1.00  0.00     0.008 A 
+HETATM   10  C6  LIG X 999       0.583   1.898  -0.219  1.00  0.00     0.104 A 
+HETATM   11  C10 LIG X 999       1.224  -0.476  -0.133  1.00  0.00     0.006 A 
+HETATM   12  C7  LIG X 999       1.731   2.165  -0.970  1.00  0.00     0.035 A 
+HETATM   13  C8  LIG X 999       2.616   1.146  -1.303  1.00  0.00     0.003 A 
+HETATM   14  C9  LIG X 999       2.365  -0.163  -0.900  1.00  0.00     0.015 A 
+HETATM   15  C11 LIG X 999       0.964  -1.807   0.297  1.00  0.00     0.085 A 
+BRANCH  10  16
+HETATM   16  N4  LIG X 999      -0.312   2.993   0.026  1.00  0.00    -0.072 NA
+HETATM   17  N5  LIG X 999      -1.534   2.878  -0.085  1.00  0.00    -0.162 NA
+HETATM   18  N6  LIG X 999      -2.753   2.765  -0.198  1.00  0.00     0.068 N 
+ENDBRANCH  10  16
+BRANCH  15  19
+HETATM   19  N7  LIG X 999       1.737  -2.921  -0.180  1.00  0.00    -0.232 NA
+HETATM   20  C12 LIG X 999       1.864  -3.180  -1.420  1.00  0.00     0.163 C 
+HETATM   21  S1  LIG X 999       2.023  -3.506  -2.990  1.00  0.00    -0.055 SA
+ENDBRANCH  15  19
+ENDBRANCH   4   6
+TORSDOF 3

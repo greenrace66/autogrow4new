@@ -1,0 +1,10 @@
+C#CCS(=O)(=O)c1ccc2c(N=C=S)cccc2c1N	(Gen_3_Mutant_11_879233+Gen_8_Cross_640570)Gen_9_Cross_145158
+N#CC(=O)C#Cc1ccc2ccccc2c1	(Gen_5_Cross_632563+Gen_8_Cross_640570)Gen_9_Cross_681799
+[N-]=[N+]=Nc1cc2c3c(c(N=[N+]=[N-])cc(N=[N+]=[N-])c3n3c(=O)c4cccc(N=[N+]=[N-])c4nc23)c1N	(Gen_8_Cross_825988+Gen_5_Cross_518237)Gen_9_Cross_297778
+[N-]=[N+]=NCC(=O)c1ccc2ccccc2c1	(Gen_2_Cross_548719+Gen_5_Cross_632563)Gen_9_Cross_264801
+[N-]=[N+]=Nc1cc2c3c(c(N=[N+]=[N-])cc(N=[N+]=[N-])c3n3c(=O)c4cccc(N=[N+]=[N-])c4[nH+]c23)c1N=[N+]=[N-]	(Gen_5_Cross_518237+Gen_8_Mutant_8_196774)Gen_9_Cross_927805
+[N-]=[N+]=NCC(=O)c1ccc2c(N)cccc2c1N=C=S	(Gen_3_Mutant_11_879233+Gen_2_Cross_548719)Gen_9_Cross_29251
+[N-]=[N+]=NCC(=O)c1ccc2ccc(S(=O)(=O)Cc3cc4cc(Cl)ccc4s3)cc2c1	(Gen_5_Cross_518237+Gen_2_Cross_548719)Gen_9_Cross_829520
+N#CC(=O)C#Cc1cc(N)c2cccc(N=C=S)c2c1	(Gen_3_Mutant_11_879233+Gen_5_Cross_632563)Gen_9_Cross_598470
+N#CC(=O)C#Cc1ccc2ccc(S(=O)(=O)Cc3cc4cc(Cl)ccc4s3)cc2c1	(Gen_5_Cross_632563+Gen_5_Cross_518237)Gen_9_Cross_354484
+CC(=O)[N-]c1c(N=[N+]=[N-])cc2c3c1c(N=[N+]=[N-])cc(N=[N+]=[N-])c3n1c(=O)c3cccc(N=[N+]=[N-])c3nc21	(Gen_8_Cross_640570+Gen_8_Mutant_26_199007)Gen_9_Cross_605216

@@ -1,0 +1,40 @@
+Loading molecules from Gen_5_Cross_582839.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: [NH-]C(=O)c1cc(N=C=O)c2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: NC(=O)c1cc(N=C=O)c2ccccc2c1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: NC(=O)c1cc(N=C=O)c2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: NC(=O)c1cc(N=C=O)c2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: NC(=O)c1cc(N=C=O)c2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    NC(=O)c1cc(N=C=O)c2ccccc2c1 has 3 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: NC(=O)c1cc(N=C=O)c2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_582839)
+            Mol #0: NC(=O)c1cc(N=C=O)c2ccccc2c1
+Saving molecules associated with...
+    [NH-]C(=O)c1cc(N=C=O)c2ccccc2c1
+
+Start time at: 2024-06-25 15:54:56.278947
+End time at:   2024-06-25 15:54:56.431256
+Total time at: 0:00:00.152309

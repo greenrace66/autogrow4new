@@ -1,0 +1,29 @@
+Loading molecules from Gen_5_Cross_783603.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_783603)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4cc(C([NH-])=O)ccc34)[nH+]n2)c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_783603)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4cc(C(N)=O)ccc34)nn2)c1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_783603)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4cc(C(N)=O)ccc34)nn2)c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_783603)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4cc(C(N)=O)ccc34)nn2)c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_783603)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4cc(C(N)=O)ccc34)nn2)c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_783603)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4cc(C(N)=O)ccc34)nn2)c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...

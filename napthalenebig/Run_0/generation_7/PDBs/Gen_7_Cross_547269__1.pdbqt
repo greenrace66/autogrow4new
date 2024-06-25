@@ -1,0 +1,38 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_2  and  C1_4 
+REMARK    2  A    between atoms: S1_2  and  C10_15 
+REMARK    3  A    between atoms: C1_4  and  C2_5 
+ROOT
+HETATM    1  O1  LIG X 999       2.298  -3.042   1.071  1.00  0.00    -0.222 OA
+HETATM    2  S1  LIG X 999       1.241  -2.547   0.123  1.00  0.00     0.180 S 
+HETATM    3  O2  LIG X 999       1.350  -3.318  -1.163  1.00  0.00    -0.222 OA
+ENDROOT
+BRANCH   2   4
+HETATM    4  C1  LIG X 999      -0.373  -2.809   0.839  1.00  0.00     0.192 C 
+BRANCH   4   5
+HETATM    5  C2  LIG X 999      -1.403  -2.034   0.082  1.00  0.00    -0.002 A 
+HETATM    6  C3  LIG X 999      -1.770  -0.715   0.350  1.00  0.00     0.028 A 
+HETATM    7  C4  LIG X 999      -2.636  -0.198  -0.618  1.00  0.00    -0.016 A 
+HETATM    8  C5  LIG X 999      -3.164   1.095  -0.644  1.00  0.00     0.036 A 
+HETATM    9  C9  LIG X 999      -2.939  -1.098  -1.629  1.00  0.00     0.015 A 
+HETATM   10  C6  LIG X 999      -4.009   1.460  -1.708  1.00  0.00     0.035 A 
+HETATM   11 CL1  LIG X 999      -4.686   3.077  -1.768  1.00  0.00    -0.084 Cl
+HETATM   12  C7  LIG X 999      -4.311   0.534  -2.727  1.00  0.00     0.025 A 
+HETATM   13  C8  LIG X 999      -3.771  -0.761  -2.693  1.00  0.00     0.021 A 
+HETATM   14  S2  LIG X 999      -2.134  -2.546  -1.356  1.00  0.00    -0.093 SA
+ENDBRANCH   4   5
+ENDBRANCH   2   4
+BRANCH   2  15
+HETATM   15  C10 LIG X 999       1.482  -0.829  -0.186  1.00  0.00     0.060 A 
+HETATM   16  C11 LIG X 999       1.218  -0.298  -1.456  1.00  0.00     0.024 A 
+HETATM   17  C12 LIG X 999       1.330   1.075  -1.685  1.00  0.00     0.014 A 
+HETATM   18  C13 LIG X 999       1.703   1.935  -0.643  1.00  0.00    -0.026 A 
+HETATM   19  C14 LIG X 999       1.811   3.318  -0.859  1.00  0.00     0.012 A 
+HETATM   20  C18 LIG X 999       1.968   1.404   0.643  1.00  0.00    -0.025 A 
+HETATM   21  C15 LIG X 999       2.178   4.165   0.190  1.00  0.00     0.001 A 
+HETATM   22  C16 LIG X 999       2.438   3.642   1.459  1.00  0.00     0.001 A 
+HETATM   23  C17 LIG X 999       2.334   2.267   1.688  1.00  0.00     0.012 A 
+HETATM   24  C19 LIG X 999       1.853   0.023   0.862  1.00  0.00     0.035 A 
+ENDBRANCH   2  15
+TORSDOF 3

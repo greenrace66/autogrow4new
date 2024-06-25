@@ -1,0 +1,10 @@
+[N-]=[N+]=NCC(=O)c1ccc2c(N=[N+]=[N-])cc(N=[N+]=[N-])c3c2c1c1[nH+]c2c(N=[N+]=[N-])cccc2c(=O)n13	(Gen_2_Cross_548719+Gen_2_Mutant_6_404186)Gen_3_Cross_150525
+C#CCS(=O)(=O)c1c(N=[N+]=[N-])c2cccc3c2c(c1N=[N+]=[N-])n1c(=O)c2cccc(N=[N+]=[N-])c2[nH+]c31	(naphthalene_87+Gen_2_Mutant_6_404186)Gen_3_Cross_374638
+N#CC(=O)C#Cc1c(N=[N+]=[N-])c2cccc3c2c(c1N=[N+]=[N-])n1c(=O)c2cccc(N=[N+]=[N-])c2[nH+]c31	(Gen_1_Mutant_16_850353+Gen_2_Mutant_6_404186)Gen_3_Cross_671327
+[N-]=[N+]=Nc1cc(N=[N+]=[N-])c2c3c1c(Cl)c(Cl)cc3c1nc3c([O-])cccc3c(=O)n12	(Gen_2_Cross_839588+naphthalene_87)Gen_3_Cross_47684
+[N-]=[N+]=Nc1c(S(=O)(=O)Cc2cc3cc(Cl)ccc3s2)ccc2c(N=C=S)cccc12	(Gen_2_Mutant_62_268618+naphthalene_101)Gen_3_Cross_963671
+N#CC(=O)C#Cc1ccc2cc(S(=O)(=O)Cc3cc4cc(Cl)ccc4s3)ccc2c1	(Gen_2_Mutant_62_268618+Gen_1_Mutant_16_850353)Gen_3_Cross_409219
+[N-]=[N+]=Nc1cc(S(=O)(=O)Cc2cc3cc(Cl)ccc3s2)cc2c(N=C=S)cccc12	(naphthalene_101+Gen_2_Mutant_62_268618)Gen_3_Cross_205226
+[N-]=[N+]=NCC(=O)c1c(N=[N+]=[N-])c2cccc3c2c(c1N=[N+]=[N-])n1c(=O)c2cccc(N=[N+]=[N-])c2[nH+]c31	(Gen_2_Cross_548719+Gen_2_Mutant_6_404186)Gen_3_Cross_47282
+C#CCS(=O)(=O)c1ccc2ccc(C#CC(=O)C#N)cc2c1	(naphthalene_87+Gen_1_Mutant_16_850353)Gen_3_Cross_712508
+[N-]=[N+]=Nc1cc(N=[N+]=[N-])c2c3c1cccc3c1[nH+]c3c(N=[N+]=[N-])cccc3c(=O)n12	(Gen_2_Mutant_6_404186+Gen_2_Mutant_62_268618)Gen_3_Cross_331758

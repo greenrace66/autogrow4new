@@ -1,0 +1,10 @@
+N#Cc1ccc(Cl)s1	(Gen_7_Cross_355321+Gen_5_Cross_891897)Gen_9_Cross_387529
+Nc1cc(O)cc(Cl)c1	(Gen_6_Cross_359249+Gen_8_Mutant_19_472236)Gen_9_Cross_743994
+Nc1cc(Cl)cc([O-])c1C=O	(Gen_1_Cross_959821+Gen_5_Cross_891897)Gen_9_Cross_545611
+O=Cc1ccc(Cl)cc1	(Gen_8_Mutant_21_268162+Gen_1_Cross_959821)Gen_9_Cross_747155
+Nc1cc(Cl)cc(O)c1C=O	(Gen_1_Cross_959821+Gen_6_Cross_359249)Gen_9_Cross_350433
+C=CN1[C@@H]2C[C@@H](C[C@H]2OC(=O)NC(=O)C#N)[C@@H]1C=O	(Gen_8_Mutant_21_268162+Gen_4_Cross_863113)Gen_9_Cross_897741
+NNCc1ccoc1	(Gen_8_Cross_374561+Gen_4_Cross_863113)Gen_9_Cross_227189
+C=C[N@H+]1[C@H](C=O)[C@H]2C[C@@H](O)[C@@H]1C2	(Gen_7_Cross_355321+Gen_8_Cross_374561)Gen_9_Cross_810790
+C=CN1[C@H](C=O)[C@H]2C[C@@H](OCC[C@@H](C)[NH3+])[C@@H]1C2	(Gen_6_Cross_359249+Gen_8_Mutant_19_472236)Gen_9_Cross_568910
+C=CN1C(C=O)C2CC(OCC[C@@H](C)[NH3+])C1C2	(Gen_8_Mutant_21_268162+Gen_8_Mutant_19_472236)Gen_9_Cross_142746

@@ -1,0 +1,5 @@
+Nc1cccc2c(N=C=S)cccc12	(naphthalene_101)Gen_2_Mutant_11_165329	Gen_2_Mutant_11_165329	Gen_2_Mutant_11_165329__1	-7.2	-0.5142857142857143	8.380029884249751
+Nc1cccc2ccccc12	(naphthalene_100)Gen_2_Mutant_11_43902	Gen_2_Mutant_11_43902	Gen_2_Mutant_11_43902__1	-6.8	-0.6181818181818182	7.8365111264050755
+[NH-]C(=O)c1ccc2ccccc2c1	(naphthalene_102)Gen_3_Mutant_11_52239	Gen_3_Mutant_11_52239	Gen_3_Mutant_11_52239__1	-8.2	-0.6307692307692307	8.072867873000277
+[N-]=[N+]=NC(=O)c1ccc2ccccc2c1	naphthalene_102	naphthalene_102	naphthalene_102__1	-8.4	-0.56	8.179825902626927
+[N-]=[N+]=Nc1cccc2ccccc12	naphthalene_100	naphthalene_100	naphthalene_100__1	-7.4	-0.5692307692307692	8.718906319631197

@@ -1,0 +1,36 @@
+REMARK Final SMILES string: [N-]=[N+]=Nc1cccc2ccccc12
+COMPND    naphthalene_100
+HETATM    1  N1  LIG X 999      -0.657  -4.694  -1.375  1.00  0.00           N1-
+HETATM    2  N2  LIG X 999      -1.210  -3.617  -1.591  1.00  0.00           N1+
+HETATM    3  N3  LIG X 999      -1.765  -2.540  -1.812  1.00  0.00           N  
+HETATM    4  C1  LIG X 999      -1.248  -1.298  -1.311  1.00  0.00           C  
+HETATM    5  C2  LIG X 999      -1.206  -0.214  -2.196  1.00  0.00           C  
+HETATM    6  C3  LIG X 999      -0.649   1.004  -1.809  1.00  0.00           C  
+HETATM    7  C4  LIG X 999      -0.136   1.165  -0.524  1.00  0.00           C  
+HETATM    8  C5  LIG X 999      -0.204   0.114   0.400  1.00  0.00           C  
+HETATM    9  C6  LIG X 999       0.281   0.297   1.705  1.00  0.00           C  
+HETATM   10  C7  LIG X 999       0.173  -0.728   2.646  1.00  0.00           C  
+HETATM   11  C8  LIG X 999      -0.432  -1.935   2.299  1.00  0.00           C  
+HETATM   12  C9  LIG X 999      -0.915  -2.136   1.003  1.00  0.00           C  
+HETATM   13  C10 LIG X 999      -0.783  -1.130   0.023  1.00  0.00           C  
+HETATM   14  H1  LIG X 999      -1.579  -0.326  -3.207  1.00  0.00           H  
+HETATM   15  H2  LIG X 999      -0.607   1.826  -2.513  1.00  0.00           H  
+HETATM   16  H3  LIG X 999       0.298   2.119  -0.246  1.00  0.00           H  
+HETATM   17  H4  LIG X 999       0.733   1.236   2.000  1.00  0.00           H  
+HETATM   18  H5  LIG X 999       0.544  -0.579   3.651  1.00  0.00           H  
+HETATM   19  H6  LIG X 999      -0.535  -2.717   3.040  1.00  0.00           H  
+HETATM   20  H7  LIG X 999      -1.416  -3.070   0.797  1.00  0.00           H  
+TER      21      UNL     1 
+CONECT    1    2    2
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5   13
+CONECT    5    6   14
+CONECT    6    7    7   15
+CONECT    7    8   16
+CONECT    8    9    9   13
+CONECT    9   10   17
+CONECT   10   11   11   18
+CONECT   11   12   19
+CONECT   12   13   13   20
+END

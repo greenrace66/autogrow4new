@@ -1,0 +1,25 @@
+REMARK Final SMILES string: C=CNc1nccs1
+COMPND    ZINC001174778209
+HETATM    1  C1  LIG X 999       2.171  -0.843   1.442  1.00  0.00           C  
+HETATM    2  C2  LIG X 999       1.400  -0.231   0.548  1.00  0.00           C  
+HETATM    3  N1  LIG X 999       0.122   0.301   0.922  1.00  0.00           N  
+HETATM    4  C3  LIG X 999      -0.740   0.967  -0.009  1.00  0.00           C  
+HETATM    5  N2  LIG X 999      -1.943   1.468   0.343  1.00  0.00           N  
+HETATM    6  C4  LIG X 999      -2.572   2.052  -0.712  1.00  0.00           C  
+HETATM    7  C5  LIG X 999      -1.871   2.018  -1.912  1.00  0.00           C  
+HETATM    8  S1  LIG X 999      -0.411   1.229  -1.641  1.00  0.00           S  
+HETATM    9  H1  LIG X 999       3.133  -1.240   1.146  1.00  0.00           H  
+HETATM   10  H2  LIG X 999       1.852  -0.953   2.470  1.00  0.00           H  
+HETATM   11  H3  LIG X 999       1.754  -0.141  -0.471  1.00  0.00           H  
+HETATM   12  H4  LIG X 999      -0.205   0.206   1.910  1.00  0.00           H  
+HETATM   13  H5  LIG X 999      -3.549   2.508  -0.615  1.00  0.00           H  
+HETATM   14  H6  LIG X 999      -2.209   2.429  -2.854  1.00  0.00           H  
+TER      15      UNL     1 
+CONECT    1    2    2    9   10
+CONECT    2    3   11
+CONECT    3    4   12
+CONECT    4    5    5    8
+CONECT    5    6
+CONECT    6    7    7   13
+CONECT    7    8   14
+END

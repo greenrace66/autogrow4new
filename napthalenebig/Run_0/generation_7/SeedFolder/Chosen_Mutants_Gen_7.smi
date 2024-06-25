@@ -1,0 +1,10 @@
+O=C(C#Cc1ccc2ccccc2c1)c1nnn(CCP(=O)(O)O)n1	(Gen_5_Cross_632563+ZINC000003957753)Gen_7_Mutant_46_472026
+Nc1cnc(Cn2cc(CS(=O)(=O)c3ccc4ccccc4c3)nn2)nc1	(naphthalene_87+ZINC000226208988)Gen_7_Mutant_48_664016
+[N-]=[N+]=NCC(=O)c1cc(N=[N+]=[N-])c2c(N)c(OCCP(=O)(O)O)cc3c2c1n1c(=O)c2cccc(N=[N+]=[N-])c2[nH+]c31	(Gen_6_Cross_72019+ZINC000004097146)Gen_7_Mutant_19_262555
+O=C(Cn1cc(C[C@@H]2CCc3ccccc32)nn1)c1ccc2ccccc2c1	(Gen_2_Cross_548719+ZINC000150188416)Gen_7_Mutant_5_798317
+CC(C)(CNc1ccc2sc(CS(=O)(=O)c3ccc4ccccc4c3)cc2c1)C(N)=O	(Gen_5_Cross_518237+ZINC000022013350)Gen_7_Mutant_87_423916
+O=C(Nc1cccc2c(N=C=S)cccc12)c1ccccc1	(Gen_3_Mutant_11_879233+ZINC001223147493)Gen_7_Mutant_26_170363
+[N-]=[N+]=Nc1cc2c3c(c(N=[N+]=[N-])cc(N=[N+]=[N-])c3n3c(=O)c4cccc(N=[N+]=[N-])c4[nH+]c23)c1N=[N+]=[N-]	(Gen_6_Cross_357094)Gen_7_Mutant_22_401290
+[N-]=[N+]=Nc1cc2c3c(c(N=[N+]=[N-])cc(N=[N+]=[N-])c3n3c(=O)c4cccc(N=[N+]=[N-])c4[nH+]c23)c1N=C=O	(Gen_6_Mutant_22_129187)Gen_7_Mutant_9_683638
+CC(C)CN1CCO[C@H](Cn2nnc(CC(=O)C#N)c2-c2ccc3ccccc3c2)C1	(Gen_5_Cross_632563+ZINC000042390669)Gen_7_Mutant_5_53213
+CC(=O)c1ccc2sc(CS(=O)(=O)c3ccc4ccccc4c3)cc2c1	(naphthalene_87+ZINC000061696866)Gen_7_Mutant_62_767027

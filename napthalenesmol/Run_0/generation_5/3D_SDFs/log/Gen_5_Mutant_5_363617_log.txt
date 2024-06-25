@@ -1,0 +1,32 @@
+Loading molecules from Gen_5_Mutant_5_363617.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_5_363617)
+            Mol #0: CC(C)(c1nn[n-]n1)c1c(Cc2cc(N=[N+]=[N-
+                ])c3c4c(cccc24)C(=O)N3)nnn1[C@H](C(N)=O)c1ccc(F)cc1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_5_363617)
+            Mol #0: CC(C)(c1nn[n-]n1)c1c(Cc2cc(N=[N+]=[N-
+                ])c3c4c(cccc24)C(=O)N3)nnn1[C@H](C([NH-])=O)c1ccc(F)cc1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_5_363617)
+            Mol #0: CC(C)(c1nn[n-]n1)c1c(Cc2cc(N=[N+]=[N-
+                ])c3c4c(cccc24)C(=O)N3)nnn1[C@H](C([NH-])=O)c1ccc(F)cc1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_5_363617)
+            Mol #0: CC(C)(c1nn[n-]n1)c1c(Cc2cc(N=[N+]=[N-
+                ])c3c4c(cccc24)C(=O)N3)nnn1[C@H](C([NH-])=O)c1ccc(F)cc1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_5_363617)
+            Mol #0: CC(C)(c1nn[n-]n1)c1c(Cc2cc(N=[N+]=[N-
+                ])c3c4c(cccc24)C(=O)N3)nnn1[C@H](C([NH-])=O)c1ccc(F)cc1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_5_363617)
+            Mol #0: CC(C)(c1nn[n-]n1)c1c(Cc2cc(N=[N+]=[N-
+                ])c3c4c(cccc24)C(=O)N3)nnn1[C@H](C([NH-])=O)c1ccc(F)cc1
+Converting all molecules to 3D structures.

@@ -1,0 +1,144 @@
+MODEL 1
+REMARK VINA RESULT:      -4.9      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      13.035  11.010  12.105  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      12.589  12.068  12.249  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      12.036  13.381  12.428  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999      12.473  14.322  13.351  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999      11.745  15.516  13.298  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      10.746  15.502  12.335  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999       9.643  16.818  11.990  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      10.754  14.018  11.545  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.9      2.322      2.955
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      12.147  13.493  13.619  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      11.747  14.458  13.121  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      11.249  15.655  12.504  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999       9.911  15.958  12.293  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999       9.725  17.198  11.669  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      10.916  17.854  11.398  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999      11.066  19.419  10.627  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      12.205  16.911  11.924  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.8      3.403      3.913
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      12.594  17.073  11.823  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      12.117  16.059  12.111  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      11.525  14.800  12.468  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999      10.263  14.631  13.023  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999       9.951  13.288  13.267  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      10.968  12.418  12.901  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999      10.926  10.675  13.062  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      12.257  13.299  12.276  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.5      3.949      4.739
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      10.148  14.834  12.555  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      10.642  13.788  12.544  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      11.256  12.490  12.530  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999      12.596  12.234  12.272  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999      12.911  10.871  12.326  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      11.817  10.072  12.627  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999      11.838   8.328  12.776  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      10.457  11.041  12.826  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.3     11.419     12.277
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      14.105  -0.962  14.806  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      14.049   0.193  14.773  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      13.980   1.627  14.732  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999      12.822   2.374  14.564  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999      13.059   3.754  14.565  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      14.398   4.075  14.734  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999      15.060   5.696  14.786  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      15.297   2.661  14.884  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.3     17.540     18.038
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      11.853  -4.392  12.203  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      12.458  -4.004  13.109  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      13.210  -3.523  14.234  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999      13.705  -2.233  14.382  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999      14.400  -2.051  15.583  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      14.443  -3.196  16.365  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999      15.225  -3.336  17.926  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      13.626  -4.439  15.581  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.6     14.294     14.628
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      12.563   4.218  26.120  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      12.715   5.309  25.768  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999      12.904   6.664  25.330  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999      13.045   7.073  24.010  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999      13.215   8.457  23.884  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999      13.204   9.119  25.104  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999      13.389  10.846  25.328  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999      12.986   8.003  26.343  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.4     22.996     23.442
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      -1.670  -0.032  25.398  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999      -0.630  -0.251  25.854  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999       0.662  -0.523  26.420  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999       1.861   0.039  26.002  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999       2.961  -0.413  26.740  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999       2.616  -1.323  27.729  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999       3.729  -2.094  28.840  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999       0.953  -1.576  27.699  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.1     22.642     23.002
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  N1  LIG X 999      -0.129   3.015  26.670  1.00  0.00    -0.191 NA
+HETATM    2  C1  LIG X 999       0.618   2.282  27.162  1.00  0.00     0.107 C 
+HETATM    3  C2  LIG X 999       1.546   1.371  27.773  1.00  0.00     0.086 A 
+HETATM    4  C3  LIG X 999       2.396   1.672  28.829  1.00  0.00     0.032 A 
+HETATM    5  C4  LIG X 999       3.189   0.586  29.217  1.00  0.00     0.033 A 
+HETATM    6  C5  LIG X 999       2.954  -0.555  28.463  1.00  0.00     0.075 A 
+HETATM    7 CL1  LIG X 999       3.761  -2.095  28.667  1.00  0.00    -0.076 Cl
+HETATM    8  S1  LIG X 999       1.769  -0.232  27.315  1.00  0.00    -0.067 SA
+ENDROOT
+TORSDOF 0
+ENDMDL

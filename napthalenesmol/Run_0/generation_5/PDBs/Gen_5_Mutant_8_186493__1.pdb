@@ -1,0 +1,36 @@
+REMARK Final SMILES string: [N-]=[N+]=Nc1cccc2ccccc12
+COMPND    Gen_5_Mutant_8_186493
+HETATM    1  N1  LIG X 999       0.785   4.752  -2.466  1.00  0.00           N1-
+HETATM    2  N2  LIG X 999       0.943   4.002  -1.503  1.00  0.00           N1+
+HETATM    3  N3  LIG X 999       1.102   3.253  -0.538  1.00  0.00           N  
+HETATM    4  C1  LIG X 999       0.757   1.858  -0.577  1.00  0.00           C  
+HETATM    5  C2  LIG X 999       0.214   1.282  -1.742  1.00  0.00           C  
+HETATM    6  C3  LIG X 999      -0.119  -0.073  -1.776  1.00  0.00           C  
+HETATM    7  C4  LIG X 999       0.081  -0.876  -0.654  1.00  0.00           C  
+HETATM    8  C5  LIG X 999       0.620  -0.329   0.518  1.00  0.00           C  
+HETATM    9  C6  LIG X 999       0.822  -1.138   1.648  1.00  0.00           C  
+HETATM   10  C7  LIG X 999       1.359  -0.593   2.816  1.00  0.00           C  
+HETATM   11  C8  LIG X 999       1.698   0.760   2.868  1.00  0.00           C  
+HETATM   12  C9  LIG X 999       1.503   1.579   1.753  1.00  0.00           C  
+HETATM   13  C10 LIG X 999       0.963   1.049   0.564  1.00  0.00           C  
+HETATM   14  H1  LIG X 999       0.046   1.879  -2.628  1.00  0.00           H  
+HETATM   15  H2  LIG X 999      -0.536  -0.503  -2.678  1.00  0.00           H  
+HETATM   16  H3  LIG X 999      -0.184  -1.926  -0.702  1.00  0.00           H  
+HETATM   17  H4  LIG X 999       0.565  -2.190   1.627  1.00  0.00           H  
+HETATM   18  H5  LIG X 999       1.512  -1.222   3.684  1.00  0.00           H  
+HETATM   19  H6  LIG X 999       2.113   1.176   3.777  1.00  0.00           H  
+HETATM   20  H7  LIG X 999       1.777   2.623   1.827  1.00  0.00           H  
+TER      21      UNL     1 
+CONECT    1    2    2
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5   13
+CONECT    5    6   14
+CONECT    6    7    7   15
+CONECT    7    8   16
+CONECT    8    9    9   13
+CONECT    9   10   17
+CONECT   10   11   11   18
+CONECT   11   12   19
+CONECT   12   13   13   20
+END

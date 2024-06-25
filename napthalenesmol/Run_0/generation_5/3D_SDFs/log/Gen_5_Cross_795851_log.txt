@@ -1,0 +1,31 @@
+Loading molecules from Gen_5_Cross_795851.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_795851)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=N)c2ccccc2c1)c1nn[n-]n1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_795851)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=[N-])c2ccccc2c1)c1n[n-][nH+]n1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_795851)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=[N-])c2ccccc2c1)c1n[n-][nH+]n1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_795851)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=[N-])c2ccccc2c1)c1n[n-][nH+]n1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_795851)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=[N-])c2ccccc2c1)c1n[n-][nH+]n1
+Enumerating all possible cis-trans isomers for all molecules...
+    CC(C)(C#Cc1cc(N=[N+]=[N-])c2ccccc2c1)c1n[n-][nH+]n1 has 2 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_795851)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=[N-])c2ccccc2c1)c1n[n-][nH+]n1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...

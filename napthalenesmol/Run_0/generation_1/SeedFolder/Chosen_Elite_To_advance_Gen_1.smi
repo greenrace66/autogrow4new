@@ -1,0 +1,5 @@
+[N-]=[N+]=NC(=O)c1ccc2ccccc2c1	naphthalene_102
+N=[N+]=Nc1ccc(N=[N+]=N)c2ccccc12	naphthalene_66
+[N-]=[N+]=Nc1cccc2ccccc12	naphthalene_100
+[N-]=[N+]=Nc1cccc2c(N=C=S)cccc12	naphthalene_101
+N=[N+]=Nc1c(N=[N+]=N)c(N=[N+]=N)c2ccccc2c1O	naphthalene_20

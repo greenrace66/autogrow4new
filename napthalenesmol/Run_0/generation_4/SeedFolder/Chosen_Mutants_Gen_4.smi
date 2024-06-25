@@ -1,0 +1,10 @@
+CCN(C)[C@@H](C)CCCn1nnc(C(C)(C)C#Cc2cc(N=[N+]=[N-])c3c4c(cccc24)C(=O)N3)n1	(Gen_3_Mutant_7_723738+ZINC001258259935)Gen_4_Mutant_46_306109
+Cc1ccc(N(CC#N)CC#N)c2oc(COc3cc(N=[N+]=[N-])c4c(Cl)ccc5c4c3CC5)cc12	(Gen_3_Mutant_61_448197+ZINC000019230171)Gen_4_Mutant_18_418586
+NC(=O)Nc1sccc1-c1nnnn1CC1(Cc2cn(-c3cccc4c(N=C=S)cccc34)n[nH+]2)CC1	(Gen_3_Mutant_5_951652+ZINC001592732808)Gen_4_Mutant_75_602479
+CC(C)c1cccc(Cc2cn(-c3cccc4ccccc34)nn2)c1	(naphthalene_100+ZINC000062605392)Gen_4_Mutant_5_380539
+O=C=Nc1cccc2ccccc12	(Gen_2_Mutant_11_43902)Gen_4_Mutant_9_37456
+NC(=O)c1ccc2ccccc2c1	(naphthalene_102)Gen_4_Mutant_11_444731
+O=c1[n-]c(-c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc12	(Gen_3_Mutant_11_52239+ZINC000049588608)Gen_4_Mutant_44_341351
+O=C(Cc1cccnc1)Nc1cccc2c(N=C=S)cccc12	(Gen_2_Mutant_11_165329+ZINC000034347773)Gen_4_Mutant_18_281251
+CC(C)(C#Cc1cc(N=[N+]=[N-])c2c3c(cccc13)C(=O)N2)c1nn[nH]n1	(Gen_3_Mutant_7_723738)Gen_4_Mutant_45_236449
+Cc1ccc(Cl)c2oc(COc3cc(N)c4c(Cl)ccc5c4c3CC5)cc12	(Gen_3_Mutant_61_448197)Gen_4_Mutant_11_224755

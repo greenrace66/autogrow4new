@@ -1,0 +1,52 @@
+Loading molecules from Gen_5_Mutant_13_100815.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_13_100815)
+            Mol #0:
+                C[C@H]1C[C@@H]1C(=O)n1c(-
+                c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+Saving molecules associated with...
+    C[C@H]1C[C@@H]1C(=O)n1c(-c2ccc3ccccc3c2)nc2c(Cl)c(Cl)c(Cl)cc2c1=O
+
+Start time at: 2024-06-25 15:54:53.683458
+End time at:   2024-06-25 15:54:54.439591
+Total time at: 0:00:00.756133

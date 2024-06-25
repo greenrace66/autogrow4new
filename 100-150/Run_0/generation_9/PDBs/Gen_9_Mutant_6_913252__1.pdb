@@ -1,0 +1,30 @@
+REMARK Final SMILES string: [N-]=[N+]=Nc1cc(N)cc(Cl)c1
+COMPND    Gen_9_Mutant_6_913252
+HETATM    1  N1  LIG X 999      -2.004  -4.200   0.841  1.00  0.00           N1-
+HETATM    2  N2  LIG X 999      -2.110  -3.026   0.489  1.00  0.00           N1+
+HETATM    3  N3  LIG X 999      -2.218  -1.851   0.137  1.00  0.00           N  
+HETATM    4  C1  LIG X 999      -1.126  -1.118  -0.434  1.00  0.00           C  
+HETATM    5  C2  LIG X 999      -1.330   0.216  -0.809  1.00  0.00           C  
+HETATM    6  C3  LIG X 999      -0.287   0.966  -1.371  1.00  0.00           C  
+HETATM    7  N4  LIG X 999      -0.503   2.328  -1.751  1.00  0.00           N  
+HETATM    8  C4  LIG X 999       0.970   0.374  -1.559  1.00  0.00           C  
+HETATM    9  C5  LIG X 999       1.182  -0.958  -1.188  1.00  0.00           C  
+HETATM   10 CL1  LIG X 999       2.757  -1.693  -1.426  1.00  0.00          CL  
+HETATM   11  C6  LIG X 999       0.140  -1.704  -0.627  1.00  0.00           C  
+HETATM   12  H1  LIG X 999      -2.302   0.670  -0.662  1.00  0.00           H  
+HETATM   13  H2  LIG X 999      -1.436   2.779  -1.616  1.00  0.00           H  
+HETATM   14  H3  LIG X 999       0.267   2.895  -2.171  1.00  0.00           H  
+HETATM   15  H4  LIG X 999       1.780   0.946  -1.993  1.00  0.00           H  
+HETATM   16  H5  LIG X 999       0.319  -2.733  -0.345  1.00  0.00           H  
+TER      17      UNL     1 
+CONECT    1    2    2
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5   11
+CONECT    5    6   12
+CONECT    6    7    8    8
+CONECT    7   13   14
+CONECT    8    9   15
+CONECT    9   10   11   11
+CONECT   11   16
+END

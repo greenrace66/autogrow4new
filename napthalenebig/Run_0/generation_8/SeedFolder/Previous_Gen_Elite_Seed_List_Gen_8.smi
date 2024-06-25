@@ -1,0 +1,17 @@
+O=C(C#Cc1ccc2ccccc2c1)c1nnn(CCP(=O)([O-])[O-])n1	(Gen_5_Cross_632563+ZINC000003957753)Gen_7_Mutant_46_472026	Gen_7_Mutant_46_472026	Gen_7_Mutant_46_472026__1	-10.8	-0.43200000000000005	5.874133220321356
+O=C(Nc1cccc2c(N=C=S)cccc12)c1ccccc1	(Gen_3_Mutant_11_879233+ZINC001223147493)Gen_7_Mutant_26_170363	Gen_7_Mutant_26_170363	Gen_7_Mutant_26_170363__1	-9.9	-0.45	5.682215738649992
+N#CC(=O)C#Cc1ccc2ccccc2c1	(Gen_1_Mutant_16_850353+Gen_2_Cross_548719)Gen_5_Cross_632563	Gen_5_Cross_632563	Gen_5_Cross_632563__1	-8.8	-0.55	7.3749924275606045
+C#CCS(=O)(=O)c1cc2ccccc2cc1C#CC(=O)C#N	(naphthalene_87+Gen_5_Cross_632563)Gen_7_Cross_282888	Gen_7_Cross_282888	Gen_7_Cross_282888__1	-7.5	-0.3409090909090909	6.7574525688770315
+Nc1cccc2c(N=C=S)cccc12	(naphthalene_101)Gen_3_Mutant_11_879233	Gen_3_Mutant_11_879233	Gen_3_Mutant_11_879233__1	-7.1	-0.5071428571428571	5.994040847676888
+C#CCS(=O)(=O)c1ccc2ccc(C(=O)CN=[N+]=[N-])cc2c1	(Gen_2_Cross_548719+naphthalene_87)Gen_7_Cross_781832	Gen_7_Cross_781832	Gen_7_Cross_781832__1	-9.3	-0.4227272727272728	6.1788401913659685
+[N-]=[N+]=NCC(=O)c1cc2ccccc2cc1S(=O)(=O)Cc1cc2cc(Cl)ccc2s1	(Gen_2_Cross_548719+Gen_5_Cross_518237)Gen_7_Cross_274828	Gen_7_Cross_274828	Gen_7_Cross_274828__1	6.8	0.22666666666666666	6.480919334120421
+O=S(=O)(Cc1cc2cc(Cl)ccc2s1)c1ccc2ccccc2c1	(naphthalene_87+Gen_2_Mutant_62_268618)Gen_5_Cross_518237	Gen_5_Cross_518237	Gen_5_Cross_518237__1	-11.8	-0.4916666666666667	7.2859786925684835
+N#CC(=O)C#Cc1ccc2c(N=C=S)cccc2c1N	(Gen_3_Mutant_11_879233+Gen_5_Cross_632563)Gen_7_Cross_280247	Gen_7_Cross_280247	Gen_7_Cross_280247__1	-8.0	-0.4	6.226775176876917
+CC(=O)c1ccc2sc(CS(=O)(=O)c3ccc4ccccc4c3)cc2c1	(naphthalene_87+ZINC000061696866)Gen_7_Mutant_62_767027	Gen_7_Mutant_62_767027	Gen_7_Mutant_62_767027__1	-12.3	-0.4730769230769231	7.066572369279762
+O=S(=O)(Cc1cc2cc(Cl)ccc2s1)c1ccc2ccccc2c1	(Gen_5_Cross_518237+naphthalene_87)Gen_7_Cross_547269	Gen_7_Cross_547269	Gen_7_Cross_547269__1	-11.5	-0.4791666666666667	7.2859786925684835
+Nc1cnc(Cn2cc(CS(=O)(=O)c3ccc4ccccc4c3)nn2)nc1	(naphthalene_87+ZINC000226208988)Gen_7_Mutant_48_664016	Gen_7_Mutant_48_664016	Gen_7_Mutant_48_664016__1	-11.2	-0.4148148148148148	5.761465025353381
+N#CC(=O)C#Cc1cc(N=[N+]=[N-])c2c(N)c(N=[N+]=[N-])cc3c2c1n1c(=O)c2cccc(N=[N+]=[N-])c2[nH+]c31	(Gen_6_Mutant_22_129187+Gen_5_Cross_632563)Gen_7_Cross_703463	Gen_7_Cross_703463	Gen_7_Cross_703463__1	14.5	0.3918918918918919	4.512617389312159
+N#CC(=O)C#Cc1cc(N=C=S)c2cccc(N)c2c1	(Gen_5_Cross_632563+Gen_3_Mutant_11_879233)Gen_7_Cross_362959	Gen_7_Cross_362959	Gen_7_Cross_362959__1	-6.9	-0.34500000000000003	6.146423583612525
+[N-]=[N+]=NCC(=O)c1ccc2ccccc2c1	(Gen_1_Cross_303981+Gen_1_Mutant_16_850353)Gen_2_Cross_548719	Gen_2_Cross_548719	Gen_2_Cross_548719__1	-8.3	-0.51875	7.046716774682946
+C#CCS(=O)(=O)c1ccc2ccccc2c1	naphthalene_87	naphthalene_87	naphthalene_87__1	-8.3	-0.51875	7.6027867990552105
+[N-]=[N+]=Nc1cc2c3c(c(N=[N+]=[N-])cc(N=[N+]=[N-])c3n3c(=O)c4cccc(N=[N+]=[N-])c4[nH+]c23)c1N	(Gen_6_Mutant_22_129187+naphthalene_87)Gen_7_Cross_383371	Gen_7_Cross_383371	Gen_7_Cross_383371__1	0.6	0.01764705882352941	4.075299125725444

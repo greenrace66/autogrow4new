@@ -1,0 +1,65 @@
+REMARK Final SMILES string: CC[C@]1(C)C[C@@H]1NC(=S)Nc1cccc2c(N)cccc12
+COMPND    Gen_10_Mutant_32_770609
+HETATM    1  C1  LIG X 999       3.769   2.273   1.545  1.00  0.00           C  
+HETATM    2  C2  LIG X 999       3.852   3.576   0.755  1.00  0.00           C  
+HETATM    3  C3  LIG X 999       3.560   3.366  -0.747  1.00  0.00           C  
+HETATM    4  C4  LIG X 999       4.523   2.494  -1.562  1.00  0.00           C  
+HETATM    5  C5  LIG X 999       3.074   4.625  -1.468  1.00  0.00           C  
+HETATM    6  C6  LIG X 999       2.125   3.443  -1.272  1.00  0.00           C  
+HETATM    7  N1  LIG X 999       1.098   3.665  -0.255  1.00  0.00           N  
+HETATM    8  C7  LIG X 999       0.284   2.594   0.243  1.00  0.00           C  
+HETATM    9  S1  LIG X 999      -0.826   2.925   1.408  1.00  0.00           S  
+HETATM   10  N2  LIG X 999       0.529   1.234  -0.167  1.00  0.00           N  
+HETATM   11  C8  LIG X 999      -0.424   0.168  -0.005  1.00  0.00           C  
+HETATM   12  C9  LIG X 999      -1.743   0.358  -0.437  1.00  0.00           C  
+HETATM   13  C10 LIG X 999      -2.678  -0.666  -0.330  1.00  0.00           C  
+HETATM   14  C11 LIG X 999      -2.312  -1.906   0.190  1.00  0.00           C  
+HETATM   15  C12 LIG X 999      -0.987  -2.149   0.610  1.00  0.00           C  
+HETATM   16  C13 LIG X 999      -0.582  -3.409   1.135  1.00  0.00           C  
+HETATM   17  N3  LIG X 999      -1.464  -4.541   1.194  1.00  0.00           N  
+HETATM   18  C14 LIG X 999       0.729  -3.571   1.603  1.00  0.00           C  
+HETATM   19  C15 LIG X 999       1.644  -2.525   1.539  1.00  0.00           C  
+HETATM   20  C16 LIG X 999       1.272  -1.296   1.003  1.00  0.00           C  
+HETATM   21  C17 LIG X 999      -0.036  -1.088   0.526  1.00  0.00           C  
+HETATM   22  H1  LIG X 999       4.522   1.543   1.180  1.00  0.00           H  
+HETATM   23  H2  LIG X 999       2.756   1.832   1.460  1.00  0.00           H  
+HETATM   24  H3  LIG X 999       3.973   2.477   2.617  1.00  0.00           H  
+HETATM   25  H4  LIG X 999       3.152   4.309   1.212  1.00  0.00           H  
+HETATM   26  H5  LIG X 999       4.876   3.994   0.863  1.00  0.00           H  
+HETATM   27  H6  LIG X 999       4.442   1.438  -1.229  1.00  0.00           H  
+HETATM   28  H7  LIG X 999       5.565   2.844  -1.407  1.00  0.00           H  
+HETATM   29  H8  LIG X 999       4.296   2.527  -2.649  1.00  0.00           H  
+HETATM   30  H9  LIG X 999       2.872   5.510  -0.826  1.00  0.00           H  
+HETATM   31  H10 LIG X 999       3.417   4.748  -2.518  1.00  0.00           H  
+HETATM   32  H11 LIG X 999       1.843   2.906  -2.203  1.00  0.00           H  
+HETATM   33  H12 LIG X 999       0.904   4.637   0.077  1.00  0.00           H  
+HETATM   34  H13 LIG X 999       1.439   1.003  -0.622  1.00  0.00           H  
+HETATM   35  H14 LIG X 999      -2.045   1.304  -0.869  1.00  0.00           H  
+HETATM   36  H15 LIG X 999      -3.697  -0.498  -0.656  1.00  0.00           H  
+HETATM   37  H16 LIG X 999      -3.087  -2.650   0.267  1.00  0.00           H  
+HETATM   38  H17 LIG X 999      -1.172  -5.407   1.701  1.00  0.00           H  
+HETATM   39  H18 LIG X 999      -2.352  -4.602   0.654  1.00  0.00           H  
+HETATM   40  H19 LIG X 999       1.048  -4.521   2.012  1.00  0.00           H  
+HETATM   41  H20 LIG X 999       2.653  -2.670   1.906  1.00  0.00           H  
+HETATM   42  H21 LIG X 999       2.015  -0.511   0.984  1.00  0.00           H  
+TER      43      UNL     1 
+CONECT    1    2   22   23   24
+CONECT    2    3   25   26
+CONECT    3    4    5    6
+CONECT    4   27   28   29
+CONECT    5    6   30   31
+CONECT    6    7   32
+CONECT    7    8   33
+CONECT    8    9    9   10
+CONECT   10   11   34
+CONECT   11   12   12   21
+CONECT   12   13   35
+CONECT   13   14   14   36
+CONECT   14   15   37
+CONECT   15   16   16   21
+CONECT   16   17   18
+CONECT   17   38   39
+CONECT   18   19   19   40
+CONECT   19   20   41
+CONECT   20   21   21   42
+END

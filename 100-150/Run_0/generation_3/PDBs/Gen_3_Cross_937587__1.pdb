@@ -1,0 +1,20 @@
+REMARK Final SMILES string: N#Cc1ccc(Cl)s1
+COMPND    Gen_3_Cross_937587
+HETATM    1  N1  LIG X 999      -3.018  -1.485  -1.209  1.00  0.00           N  
+HETATM    2  C1  LIG X 999      -2.030  -1.067  -0.773  1.00  0.00           C  
+HETATM    3  C2  LIG X 999      -0.805  -0.549  -0.233  1.00  0.00           C  
+HETATM    4  C3  LIG X 999      -0.236   0.675  -0.555  1.00  0.00           C  
+HETATM    5  C4  LIG X 999       0.962   0.915   0.128  1.00  0.00           C  
+HETATM    6  C5  LIG X 999       1.321  -0.122   0.978  1.00  0.00           C  
+HETATM    7 CL1  LIG X 999       2.752  -0.166   1.986  1.00  0.00          CL  
+HETATM    8  S1  LIG X 999       0.164  -1.339   0.891  1.00  0.00           S  
+HETATM    9  H1  LIG X 999      -0.670   1.373  -1.259  1.00  0.00           H  
+HETATM   10  H2  LIG X 999       1.547   1.817   0.005  1.00  0.00           H  
+TER      11      UNL     1 
+CONECT    1    2    2    2
+CONECT    2    3
+CONECT    3    4    4    8
+CONECT    4    5    9
+CONECT    5    6    6   10
+CONECT    6    7    8
+END

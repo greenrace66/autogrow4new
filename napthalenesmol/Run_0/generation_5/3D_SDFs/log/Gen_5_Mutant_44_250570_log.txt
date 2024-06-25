@@ -1,0 +1,7 @@
+Loading molecules from Gen_5_Mutant_44_250570.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_44_250570)
+            Mol #0: CC(C)(C#Cc1cc(N=[N+]=[N-
+                ])c2c3c1cccc3c1nc3c(NC(=O)c4cnco4)cccc3c(=O)n12)c1nn[n-]n1
+Ionizing all molecules...

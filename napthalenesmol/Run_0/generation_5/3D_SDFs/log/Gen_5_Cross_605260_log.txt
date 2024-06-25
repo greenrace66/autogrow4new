@@ -1,0 +1,38 @@
+Loading molecules from Gen_5_Cross_605260.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)[nH+]n2)c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)nn2)c1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)nn2)c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)nn2)c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)nn2)c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)nn2)c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_605260)
+            Mol #0: CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)nn2)c1
+Saving molecules associated with...
+    CC(C)c1cccc(Cc2cn(-c3cccc4ccc(C([NH-])=O)cc34)[nH+]n2)c1
+
+Start time at: 2024-06-25 15:54:54.856295
+End time at:   2024-06-25 15:54:55.749713
+Total time at: 0:00:00.893418

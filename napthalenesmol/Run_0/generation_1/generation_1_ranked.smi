@@ -1,0 +1,12 @@
+[N-]=[N+]=Nc1cccc2ccccc12	naphthalene_100	naphthalene_100	naphthalene_100__1	-7.4	-0.5692307692307692	5.667840018410592
+[N-]=[N+]=NC(=O)c1ccc2ccccc2c1	naphthalene_102	naphthalene_102	naphthalene_102__1	-8.4	-0.56	4.556805325430888
+[N-]=[N+]=Nc1cccc2c(N=C=S)cccc12	naphthalene_101	naphthalene_101	naphthalene_101__1	-6.5	-0.40625	5.396954654221417
+[N-]=[N+]=Nc1ccc(N=[N+]=[N-])c2ccccc12	naphthalene_66	naphthalene_66	naphthalene_66__1	-5.9	-0.36875	5.808682606167252
+N#Cc1sc2ccc3ccccc3c2c1N=[N+]=[N-]	(naphthalene_38+naphthalene_30)Gen_1_Cross_886947	Gen_1_Cross_886947	Gen_1_Cross_886947__1	-6.6	-0.36666666666666664	4.709412211886489
+C#CCOc1cc(N=[N+]=[N-])c2c(Cl)ccc3c2c1CC3	(naphthalene_47+naphthalene_88)Gen_1_Cross_897211	Gen_1_Cross_897211	Gen_1_Cross_897211__1	-6.5	-0.325	3.8151587457055918
+CC(C)(O)C#Cc1cc(N=[N+]=[N-])c2c3c(cccc13)C(=O)N2	(naphthalene_75+naphthalene_9)Gen_1_Cross_602957	Gen_1_Cross_602957	Gen_1_Cross_602957__1	-7.0	-0.3181818181818182	3.901947536440903
+[N-]=[N+]=Nc1c(N=[N+]=[N-])c(N=[N+]=[N-])c2ccccc2c1O	(naphthalene_27+naphthalene_63)Gen_1_Cross_120336	Gen_1_Cross_120336	Gen_1_Cross_120336__1	-6.0	-0.3	5.285679616364628
+[N-]=[N+]=Nc1c(N=[N+]=[N-])c(N=[N+]=[N-])c2ccccc2c1[O-]	naphthalene_20	naphthalene_20	naphthalene_20__1	-5.9	-0.29500000000000004	5.4465506957496395
+COc1ccc(-n2c(CN=[N+]=[N-])nc3cc4ccccc4cc32)cc1	(naphthalene_53+ZINC000169743152)Gen_1_Mutant_85_362746	Gen_1_Mutant_85_362746	Gen_1_Mutant_85_362746__1	-7.3	-0.292	3.696383788166111
+[N-]=[N+]=NC[C@H](O)COc1ccc(N=[N+]=[N-])c2ccccc12	(naphthalene_51+naphthalene_104)Gen_1_Cross_966066	Gen_1_Cross_966066	Gen_1_Cross_966066__1	-5.9	-0.28095238095238095	5.059246816877557
+C#CCOc1c(N=[N+]=[N-])c(N=[N+]=[N-])c(N=[N+]=[N-])c2ccccc12	(naphthalene_25+naphthalene_70)Gen_1_Cross_901198	Gen_1_Cross_901198	Gen_1_Cross_901198__1	-6.3	-0.27391304347826084	5.253970401519027

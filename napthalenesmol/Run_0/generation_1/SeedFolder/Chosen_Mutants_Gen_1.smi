@@ -1,0 +1,10 @@
+c1ccc2c(c1)cc(-c1cn([C@H]3C[C@@H]4CCC[C@H]3C4)nn1)c1ccccc12	(naphthalene_80+ZINC000197195406)Gen_1_Mutant_48_547240
+C[C@@H](O)CCCC(=O)Oc1c(N=[N+]=N)c(N=[N+]=N)c(N=[N+]=N)c2ccccc12	(naphthalene_20+ZINC000004218505)Gen_1_Mutant_14_733040
+N=[N+]=Nc1cc(N=[N+]=N)c2c3c1cccc3c1nc3ccc(N=C=S)cc3c(=O)n12	(naphthalene_12+ZINC000000160245)Gen_1_Mutant_44_887122
+N=[N+]=Nc1ccc(N=[N+]=N)c2c(O[C@@H]3C[C@H]4CN[C@@H]3C4)cccc12	(naphthalene_46+ZINC000104612889)Gen_1_Mutant_71_382576
+O=Cc1c(OCc2cc3cc(CC(=O)O)cc(F)c3[nH]2)ccc2ccccc12	(naphthalene_81+ZINC000228905791)Gen_1_Mutant_63_449838
+CC#CCOC(=O)Nc1cc2ccccc2cc1N=[N+]=N	(naphthalene_58+ZINC000002564822)Gen_1_Mutant_12_583962
+Cc1nnn(-c2ccc3ccccc3c2)c1CC1=CC[C@@H](C#N)CC1	(naphthalene_99+ZINC001249949689)Gen_1_Mutant_5_985798
+C=C[C@@H](CO)Nc1ccccc1/C=C/c1ccc(N=[N+]=N)c2ccccc12	(naphthalene_63+ZINC001169781401)Gen_1_Mutant_77_850365
+COc1ccc(-n2c(CN=[N+]=N)nc3cc4ccccc4cc32)cc1	(naphthalene_53+ZINC000169743152)Gen_1_Mutant_85_362746
+N#CC(=O)c1ccccc1C#CCOc1cccc2ccccc12	(naphthalene_70+ZINC000097957347)Gen_1_Mutant_82_909513

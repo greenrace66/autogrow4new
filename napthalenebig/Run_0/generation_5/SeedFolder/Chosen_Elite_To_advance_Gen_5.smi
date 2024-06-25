@@ -1,0 +1,5 @@
+[N-]=[N+]=NCC(=O)c1ccc2ccccc2c1	(Gen_1_Cross_303981+Gen_1_Mutant_16_850353)Gen_2_Cross_548719	Gen_2_Cross_548719	Gen_2_Cross_548719__1	-8.3	-0.51875	8.422543601418724
+C#CCS(=O)(=O)c1ccc2ccccc2c1	naphthalene_87	naphthalene_87	naphthalene_87__1	-8.3	-0.51875	9.024170431527843
+Nc1cccc2c(N=C=S)cccc12	(naphthalene_101)Gen_3_Mutant_11_879233	Gen_3_Mutant_11_879233	Gen_3_Mutant_11_879233__1	-7.1	-0.5071428571428571	7.241254121685811
+O=S(=O)(Cc1cc2cc(Cl)ccc2s1)c1ccc2ccccc2c1	(naphthalene_87+ZINC000090413339)Gen_2_Mutant_62_268618	Gen_2_Mutant_62_268618	Gen_2_Mutant_62_268618__1	-11.7	-0.4875	9.200482913763178
+N#CC(=O)C#Cc1ccc2ccccc2c1	(naphthalene_85)Gen_1_Mutant_16_850353	Gen_1_Mutant_16_850353	Gen_1_Mutant_16_850353__1	-8.6	-0.5375	8.990550137408352

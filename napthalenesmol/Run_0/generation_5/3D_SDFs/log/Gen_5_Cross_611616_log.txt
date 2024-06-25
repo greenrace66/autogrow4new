@@ -1,0 +1,64 @@
+Loading molecules from Gen_5_Cross_611616.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+            Mol #0: [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+            Mol #0:
+                [NH-]C(=O)c1cc2ccccc2cc1-c1[n-]c(=O)c2cc(Cl)c(Cl)c(Cl)c2[nH+]1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+            Mol #0:
+                [NH-]C(=O)c1cc2ccccc2cc1-c1[n-]c(=O)c2cc(Cl)c(Cl)c(Cl)c2[nH+]1
+Applying Durrant-lab filters to all molecules...
+    [NH-]C(=O)c1cc2ccccc2cc1-c1[n-]c(=O)c2cc(Cl)c(Cl)c(Cl)c2[nH+]1, a variant
+        generated from
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616), contains a prohibited substructure, so I'm
+        discarding it.
+    WARNING: Unable to find low-energy conformations:
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616). Keeping original conformers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+Enumerating all possible enantiomers for all molecules...
+    Could not generate valid enantiomers for
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616), so using existing (unprocessed) structures.
+    WARNING: Unable to find low-energy conformations:
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616). Keeping original conformers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+Enumerating all possible cis-trans isomers for all molecules...
+    Could not generate valid double-bond variant for
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616), so using existing (unprocessed) structures.
+    WARNING: Unable to find low-energy conformations:
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616). Keeping original conformers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+Converting all molecules to 3D structures.
+    WARNING: Unable to find low-energy conformations:
+        [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+        (Gen_5_Cross_611616). Discarding conformer.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Cross_611616)
+
+3D models could not be generated for the following entries:
+[NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+    Gen_5_Cross_611616
+
+Saving molecules associated with...
+    [NH-]C(=O)c1cc2ccccc2cc1-c1nc2c(Cl)c(Cl)c(Cl)cc2c(=O)[nH]1
+
+Start time at: 2024-06-25 15:54:55.888002
+End time at:   2024-06-25 15:54:56.276833
+Total time at: 0:00:00.388831

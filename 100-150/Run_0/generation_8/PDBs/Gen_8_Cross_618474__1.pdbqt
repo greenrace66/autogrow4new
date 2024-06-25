@@ -1,0 +1,38 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3 
+REMARK    2  A    between atoms: C7_8  and  O1_9 
+REMARK    3  A    between atoms: O1_9  and  C8_10 
+REMARK       I    between atoms: C8_10  and  N2_12 
+REMARK       I    between atoms: N2_12  and  C9_13 
+REMARK    4  A    between atoms: C10_16  and  C11_17 
+ROOT
+HETATM    1  N1  LIG X 999       0.238   2.925   0.531  1.00  0.00    -0.372 N 
+HETATM    2  C3  LIG X 999      -0.086   1.882  -0.448  1.00  0.00     0.114 C 
+HETATM    3  C4  LIG X 999      -1.582   2.041  -0.597  1.00  0.00     0.035 C 
+HETATM    4  C5  LIG X 999      -1.846   1.942   0.893  1.00  0.00     0.019 C 
+HETATM    5  C6  LIG X 999      -1.222   0.566   1.204  1.00  0.00     0.042 C 
+HETATM    6  C7  LIG X 999       0.015   0.528   0.274  1.00  0.00     0.157 C 
+HETATM    7  C10 LIG X 999      -0.897   3.030   1.446  1.00  0.00     0.150 C 
+ENDROOT
+BRANCH   6   8
+HETATM    8  O1  LIG X 999      -0.071  -0.540  -0.669  1.00  0.00    -0.296 OA
+BRANCH   8   9
+HETATM    9  C8  LIG X 999       0.112  -1.882  -0.321  1.00  0.00     0.368 C 
+HETATM   10  O2  LIG X 999       0.382  -2.199   0.870  1.00  0.00    -0.238 OA
+HETATM   11  N2  LIG X 999      -0.011  -2.888  -1.336  1.00  0.00    -0.259 N 
+HETATM   12  C9  LIG X 999       0.150  -4.293  -1.103  1.00  0.00     0.323 C 
+HETATM   13  H11 LIG X 999      -0.234  -2.574  -2.307  1.00  0.00     0.175 HD
+HETATM   14  O3  LIG X 999       0.418  -4.737   0.045  1.00  0.00    -0.254 OA
+HETATM   15 CL1  LIG X 999      -0.028  -5.420  -2.433  1.00  0.00    -0.020 Cl
+ENDBRANCH   8   9
+ENDBRANCH   6   8
+BRANCH   1  16
+HETATM   16  C2  LIG X 999       1.544   3.437   0.846  1.00  0.00     0.076 C 
+HETATM   17  C1  LIG X 999       2.630   3.115   0.144  1.00  0.00     0.029 C 
+ENDBRANCH   1  16
+BRANCH   7  18
+HETATM   18  C11 LIG X 999      -1.510   4.403   1.383  1.00  0.00     0.256 C 
+HETATM   19  O4  LIG X 999      -2.466   4.682   2.088  1.00  0.00    -0.305 OA
+ENDBRANCH   7  18
+TORSDOF 4

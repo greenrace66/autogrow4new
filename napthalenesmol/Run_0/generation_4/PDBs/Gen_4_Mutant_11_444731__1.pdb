@@ -1,0 +1,38 @@
+REMARK Final SMILES string: NC(=O)c1ccc2ccccc2c1
+COMPND    Gen_4_Mutant_11_444731
+HETATM    1  N1  LIG X 999       3.460   1.675  -0.977  1.00  0.00           N  
+HETATM    2  C1  LIG X 999       2.405   1.299  -0.086  1.00  0.00           C  
+HETATM    3  O1  LIG X 999       2.695   0.980   1.098  1.00  0.00           O  
+HETATM    4  C2  LIG X 999       0.991   1.263  -0.532  1.00  0.00           C  
+HETATM    5  C3  LIG X 999       0.553   2.033  -1.624  1.00  0.00           C  
+HETATM    6  C4  LIG X 999      -0.783   1.996  -2.033  1.00  0.00           C  
+HETATM    7  C5  LIG X 999      -1.708   1.193  -1.354  1.00  0.00           C  
+HETATM    8  C6  LIG X 999      -3.052   1.150  -1.758  1.00  0.00           C  
+HETATM    9  C7  LIG X 999      -3.966   0.347  -1.070  1.00  0.00           C  
+HETATM   10  C8  LIG X 999      -3.547  -0.416   0.024  1.00  0.00           C  
+HETATM   11  C9  LIG X 999      -2.212  -0.381   0.436  1.00  0.00           C  
+HETATM   12  C10 LIG X 999      -1.284   0.422  -0.246  1.00  0.00           C  
+HETATM   13  C11 LIG X 999       0.059   0.465   0.158  1.00  0.00           C  
+HETATM   14  H1  LIG X 999       4.439   1.750  -0.621  1.00  0.00           H  
+HETATM   15  H2  LIG X 999       3.299   1.795  -2.000  1.00  0.00           H  
+HETATM   16  H3  LIG X 999       1.232   2.687  -2.154  1.00  0.00           H  
+HETATM   17  H4  LIG X 999      -1.094   2.602  -2.877  1.00  0.00           H  
+HETATM   18  H5  LIG X 999      -3.394   1.735  -2.603  1.00  0.00           H  
+HETATM   19  H6  LIG X 999      -5.001   0.316  -1.384  1.00  0.00           H  
+HETATM   20  H7  LIG X 999      -4.259  -1.036   0.553  1.00  0.00           H  
+HETATM   21  H8  LIG X 999      -1.906  -0.979   1.286  1.00  0.00           H  
+HETATM   22  H9  LIG X 999       0.381  -0.132   1.004  1.00  0.00           H  
+TER      23      UNL     1 
+CONECT    1    2   14   15
+CONECT    2    3    3    4
+CONECT    4    5    5   13
+CONECT    5    6   16
+CONECT    6    7    7   17
+CONECT    7    8   12
+CONECT    8    9    9   18
+CONECT    9   10   19
+CONECT   10   11   11   20
+CONECT   11   12   21
+CONECT   12   13   13
+CONECT   13   22
+END

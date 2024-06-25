@@ -1,0 +1,8 @@
+C#CCOc1ccc2ccccc2c1C[NH2+]O	naphthalene_83	naphthalene_83	naphthalene_83__1	-7.9	-0.4647058823529412	7.3686400801234155
+C#CCS(=O)(=O)c1ccc2ccccc2c1	naphthalene_87	naphthalene_87	naphthalene_87__1	-8.3	-0.51875	8.02162930073051
+[N-]=[N+]=NCC(=O)c1ccc2ccccc2c1	(naphthalene_107+naphthalene_8)Gen_1_Cross_303981	Gen_1_Cross_303981	Gen_1_Cross_303981__1	-8.2	-0.5125	8.369800012065117
+Clc1c(Cl)c2ccccc2c2ccccc12	(naphthalene_23+naphthalene_80)Gen_1_Cross_932172	Gen_1_Cross_932172	Gen_1_Cross_932172__1	-6.9	-0.43125	6.323101358554205
+[N-]=[N+]=Nc1c(N=[N+]=[N-])c2c3c(cccc3c1N=[N+]=[N-])C(=O)N([O-])C2=O	(naphthalene_5+naphthalene_20)Gen_1_Cross_957347	Gen_1_Cross_957347	Gen_1_Cross_957347__1	1.5	0.06	7.078656986789872
+[N-]=[N+]=Nc1cc(N=[N+]=[N-])c2c3c1cccc3c1[nH+]c3c([O-])cccc3c(=O)n12	(naphthalene_12+ZINC000000388292)Gen_1_Mutant_44_888495	Gen_1_Mutant_44_888495	Gen_1_Mutant_44_888495__1	-1.5	-0.05357142857142857	6.35455081804631
+N#CC(=O)C#Cc1ccc2ccccc2c1	(naphthalene_85)Gen_1_Mutant_16_850353	Gen_1_Mutant_16_850353	Gen_1_Mutant_16_850353__1	-8.6	-0.5375	7.76319122409932
+[N-]=[N+]=Nc1cccc2c(N=C=S)cccc12	naphthalene_101	naphthalene_101	naphthalene_101__1	-7.6	-0.475	8.362668852754178

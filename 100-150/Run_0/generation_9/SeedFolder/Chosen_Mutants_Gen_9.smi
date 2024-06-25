@@ -1,0 +1,10 @@
+Nc1cc([O-])cc(/C=C/c2cncnc2C(F)(F)F)c1	(Gen_5_Cross_891897+ZINC001240830314)Gen_9_Mutant_77_970769
+C=CN1[C@H](c2n~c3cccnc3n2[C@H]2CC[C@](C)(O)CC2)[C@H]2C[C@@H](OCC[C@@H](C)[NH3+])[C@@H]1C2	(Gen_8_Mutant_19_472236+ZINC001154951784)Gen_9_Mutant_39_952906
+[N-]=[N+]=Nc1cc(O)cc(Cl)c1	(Gen_6_Cross_359249)Gen_9_Mutant_8_193997
+C=C[N@H+]1[C@H](C=O)[C@H]2C[C@@H](N=[N+]=[N-])[C@@H]1C2	(Gen_8_Cross_374561)Gen_9_Mutant_6_927024
+NN(Cc1ccoc1)c1ccc(-c2ccccn2)cn1	(Gen_4_Cross_863113+ZINC000118325975)Gen_9_Mutant_90_427928
+C=CN1[C@@H]2C[C@@H](C[C@H]2OC(=O)NC(=O)C#N)[C@@H]1C1NCCc2ccc(CN[C@H]3CCC[C@H]3C)cc21	(Gen_8_Mutant_21_268162+ZINC000841032663)Gen_9_Mutant_37_447024
+O=C(NCCn1nnc(-c2ccc(Cl)s2)n1)C1CC1	(Gen_7_Cross_355321+ZINC000019782999)Gen_9_Mutant_46_899011
+O=Cc1ccc(/C=C/c2cnc3c(c2)C2(CC2)C(=O)N3)cc1	(Gen_1_Cross_959821+ZINC001240831396)Gen_9_Mutant_77_624280
+[N-]=[N+]=Nc1cc(N)cc(Cl)c1	(Gen_5_Cross_891897)Gen_9_Mutant_6_913252
+C=CN1[C@H](CN(C)CCCNC)[C@H]2C[C@@H](OCC[C@@H](C)[NH3+])[C@@H]1C2	(Gen_8_Mutant_19_472236+ZINC000001744499)Gen_9_Mutant_66_304794

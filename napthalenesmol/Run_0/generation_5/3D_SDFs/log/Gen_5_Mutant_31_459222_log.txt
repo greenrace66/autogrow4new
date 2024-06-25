@@ -1,0 +1,38 @@
+Loading molecules from Gen_5_Mutant_31_459222.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)NC1CCOCC1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)[NH2+]C1CCOCC1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)[NH2+]C1CCOCC1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)[NH2+]C1CCOCC1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)[NH2+]C1CCOCC1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)[NH2+]C1CCOCC1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_5_Mutant_31_459222)
+            Mol #0: O=C(NC(=O)c1ccc2ccccc2c1)[NH2+]C1CCOCC1
+Saving molecules associated with...
+    O=C(NC(=O)c1ccc2ccccc2c1)NC1CCOCC1
+
+Start time at: 2024-06-25 15:54:54.354957
+End time at:   2024-06-25 15:54:54.854698
+Total time at: 0:00:00.499741
