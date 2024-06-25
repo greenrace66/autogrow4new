@@ -1,0 +1,10 @@
+N=[N+]=Nc1ccc2c3c(ccc(O)c13)CC2	(naphthalene_49+naphthalene_43)Gen_1_Cross_525415
+C#CCS(=O)(=O)c1ccc2cc(CC(=[N+]=[N+]=N)[N+](=O)[O-])ccc2c1	(naphthalene_32+naphthalene_87)Gen_1_Cross_570204
+COc1cc(F)c2ccccc2c1N=[N+]=N	(naphthalene_7+naphthalene_60)Gen_1_Cross_67472
+[N-]=[N+]=NC(=O)c1ccc2cc3:N:C(CN=[N+]=N):N:c3cc2c1	(naphthalene_53+naphthalene_102)Gen_1_Cross_375003
+N=[N+]=Nc1ccc2c3c(ccc(N=[N+]=N)c13)CC2	(naphthalene_48+naphthalene_55)Gen_1_Cross_562887
+C#CCNS(=O)(=O)c1ccc2c(N=[N+]=N)c(OC(=O)N(C)C)ccc2c1	(naphthalene_76+naphthalene_6)Gen_1_Cross_882836
+[N-]=[N+]=NCCOc1ccc2cccc(-c3nnc(CN=[N+]=N)o3)c2c1	(naphthalene_35+naphthalene_110)Gen_1_Cross_443377
+[N-]=[N+]=NCCOc1c(N=[N+]=N)c(Cl)c(N=[N+]=N)c2ccccc12	(naphthalene_16+naphthalene_112)Gen_1_Cross_189848
+N=[N+]=Nc1c(N=[N+]=N)c(N=[N+]=N)c2ccccc2c1O	(naphthalene_15+naphthalene_16)Gen_1_Cross_730536
+N=[N+]=Nc1cc2ccccc2cc1O	(naphthalene_58+naphthalene_95)Gen_1_Cross_600457
